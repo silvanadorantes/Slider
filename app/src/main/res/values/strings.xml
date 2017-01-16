@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="action_settings">Settings</string>
+    <string name="splashscreen_title">Capitan America Civil War</string>
+    <string name="slider_2">Capitan America</string>
+    <string name="slider_3"> Iron Man</string>
+    <string name="slider_4">Black Widow</string>
+    <string name="slider_5">CIVIL WAR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
